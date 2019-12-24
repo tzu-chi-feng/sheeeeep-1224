@@ -1,5 +1,8 @@
 /*背景画布*/
 
+.body{
+  background-color: black;
+}
 .canvas {
     position: relative;
     width: 343px;
